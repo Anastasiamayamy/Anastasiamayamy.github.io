@@ -2,7 +2,7 @@
 layout: post
 title:  "Who is Anastasia"
 date:   2025-6-22
-categories: [me]
+categories: [Ruby]
 ---
 This is my first post and I will introduce me in here.（now me
 
