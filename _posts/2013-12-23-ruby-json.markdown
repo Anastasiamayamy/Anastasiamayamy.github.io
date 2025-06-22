@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Parsing JSON with Ruby"
-date:   2013-12-23 00:18:23 +0700
+title:  "Who is Anastasia"
+date:   2025-6-22
 categories: [ruby]
 ---
-Parsing JSON with Ruby is actually extremely easy. All you have to do is have the json gem installed (`gem install json`) and call the `JSON.parse` method on the JSON data to convert it to ruby hashes. If you look at this small program here, you can see how I have implemented parsing JSON in Ruby.
+This is my first post and I will introduce me in here.（now me
 
-{% highlight ruby %}
-#!/usr/bin/env ruby
-
+![linify_2025-03-21_07-33](https://github.com/user-attachments/assets/d3178669-52ec-4099-a42d-2a4474898624)
+Anastasia is my english name ，maybe my friends can call me “annie” or “stacy”，such as that.（i don’t know
+I have many things want to do.I'll document this in more detail later.
+I'd really really really like to write more here right now, I have many ideas about blogging but I must go do something else right now
 require 'json'
 require 'net/http'
 require 'libnotify'
