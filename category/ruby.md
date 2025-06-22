@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: ruby
-title: Ruby
+categories: me
+title: me
 permalink: /category/ruby
 ---
